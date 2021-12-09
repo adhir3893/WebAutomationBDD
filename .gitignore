@@ -1,1 +1,25 @@
+target/
+target/*
+test-output/*
+extentConfigs/*
+bin/apps/*
+**/src/test/scala/
+*.class
+*.xml
 
+# Eclipse
+.settings/*
+.classpath
+.project
+.DS_store
+.ipa
+.apk
+.dmg
+.png
+
+# logger output
+/.metadata/
+/.recommenders/*
+*/bin/*
+/.shelf/
+/target/
